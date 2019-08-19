@@ -1,0 +1,16 @@
+{
+  "name": "resthub",
+  "version": "1.0.0",
+  "description": "All credits to this awesome tutorial https://medium.com/@dinyangetoh/how-to-build-simple-restful-api-with-nodejs-expressjs-and-mongodb-99348012925d",
+  "main": "index.js",
+  "scripts": {
+    "test": "Error no test specified"
+  },
+  "author": "Eduardo Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.9"
+  }
+}
